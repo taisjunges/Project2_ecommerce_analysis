@@ -1,2 +1,3 @@
-# Project2_ecommerce_analysis
-Projeto do curso Analise de dados da EBAC do módulo de manipulação de dados com python. Análise de dados de uma loja online.
+# Project2_Ecommerce_Analysis
+This project was developed as part of the Data Analysis course from EBAC, during the "Data Manipulation with Python" module. The objective was to analyze data from a fictional e-commerce platform provided by the course. The dataset was cleaned, processed, and prepared to enable more accurate analyses. Finally, a Dash application was built to make it easier to visualize the insights gained.
+
